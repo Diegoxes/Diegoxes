@@ -2,10 +2,15 @@
 
 " Soy un estudiante de ultimo año de Ingeniería de Sistemas y desarrollador Full Stack con experiencia en React, Redux, Tailwind, PostgreSQL, Node.js y Express.js. Comprometido con la excelencia técnica y la innovación. ¡Listo para contribuir en proyectos emocionantes y seguir aprendiendo!"
 
+
 🔭 Actualmente estoy trabajando en proyectos de desarrollo web utilizando tecnologías como React, Redux, Node.js, Express y Tailwind CSS.
+
 🌱 Actualmente estoy aprendiendo Java con SpringBoot para el backend.
-👯 Estoy buscando colaborar en proyectos de código  relacionados con el desarrollo de aplicaciones web.
-📫 Cómo contactarme: Puedes encontrarme en LinkedIn https://www.linkedin.com/in/diego-mendoza-b33541122/ o enviarme un correo electrónico a diegoxesfc@gmail.com
+
+👯 Estoy buscando colaborar en proyectos de código abierto relacionados con el desarrollo de aplicaciones web.
+
+📫 Cómo contactarme: Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/diego-mendoza-b33541122/) o enviarme un correo electrónico a diegoxesfc@gmail.com.
+
 ⚡ Dato curioso: ¡Soy un ávido aficionado al deporte de contacto y me encanta explorar nuevas tecnologías en mi tiempo libre!
 
 
