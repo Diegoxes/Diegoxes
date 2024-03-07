@@ -5,7 +5,7 @@
 
 🔭 Actualmente estoy trabajando en proyectos de desarrollo web utilizando tecnologías como React, Redux, Node.js,Django , Express y Tailwind CSS.
 
-🌱 Actualmente estoy aprendiendo Java con SpringBoot para el backend.
+🌱 Actualmente estoy aprendiendo SpringBoot para el backend.
 
 👯 Estoy buscando colaborar en proyectos de código abierto relacionados con el desarrollo de aplicaciones web.
 
