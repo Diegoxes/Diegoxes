@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-" Soy un estudiante de ultimo año de Ingeniería de Sistemas y desarrollador Full Stack con experiencia en React, Redux, Tailwind, PostgreSQL, Node.js,Django y Express.js. Comprometido con la excelencia técnica y la innovación. ¡Listo para contribuir en proyectos emocionantes y seguir aprendiendo!"
+" Soy un estudiante de ultimo año de Ingeniería de Software y desarrollador Full Stack con experiencia en React, Redux, Tailwind, PostgreSQL, Node.js,Django y Express.js. Comprometido con la excelencia técnica y la innovación. ¡Listo para contribuir en proyectos emocionantes y seguir aprendiendo!"
 
 
 🔭 Actualmente estoy trabajando en proyectos de desarrollo web utilizando tecnologías como React, Redux, Node.js,Django , Express y Tailwind CSS.
