@@ -3,7 +3,7 @@
 " Soy un egresado de Ingeniería de Sistemas y desarrollador Full Stack con experiencia en React,Angular, Redux, Tailwind, PostgreSQL, Node.js, Express.js,Nest.js y Spring Boot. Comprometido con la excelencia técnica y la innovación. ¡Listo para contribuir en proyectos emocionantes y seguir aprendiendo!"
 
 
-🔭 Actualmente estoy trabajando en proyectos de desarrollo web utilizando tecnologías como React, Redux, Node.js,Django , Express y Tailwind CSS.
+🔭 Actualmente estoy trabajando en proyectos de desarrollo web utilizando tecnologías como React, Redux, Node.js,Nest.js , Express y Tailwind CSS.
 
 🌱 Actualmente estoy mejorando mis habilidades en servicios de AWS.
 
